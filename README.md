@@ -16,7 +16,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
-My name is Boris and i write code in java 👨🏻‍💻
+My name is Boris and i write code in java 👨🏻‍💻/n
 Below you can see my completed projects 👇🏻
 
 
