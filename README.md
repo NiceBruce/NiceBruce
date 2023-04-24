@@ -11,7 +11,7 @@
   </a>
 </h1>
 <pre>
-My name is Boris and i write code in java 👨🏻‍💻&#10;&#13;
+I write code in java 👨🏻‍💻&#10;&#13;
 Below you can see my completed projects 👇🏻
 </pre>
 
