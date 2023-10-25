@@ -16,8 +16,9 @@
 
 👨🏻‍💻 My tech stack: 
 - Java
-- Hibernate
+- Hibernate ORM
 - Gradle
+- JUnit
 - [PostgreSql, MSSQL, MariaDB]
 -  HTML, CSS. Also i'm currently learning JavaScript and framework React.
 
