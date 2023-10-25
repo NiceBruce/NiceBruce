@@ -1,19 +1,29 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xFlwfGFN6ddtK2B05t/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xFlwfGFN6ddtK2B05t/giphy.gif" width="500"/>
 </div>
-<h1>
-  Hey there! Glad to see you here!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=NiceBruce&style=for-the-badge&color=brightgreen" alt=""/>
   <a href="https://www.linkedin.com/in/boris-demin-81ab96250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t.me/rtfmyoumust">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:demin.b.d@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </h1>
-<pre>
-I write code in java 👨🏻‍💻&#10;&#13;
-Below you can see my completed projects 👇🏻
-</pre>
+
+👨🏻‍💻 My tech stack: 
+- Java
+- Hibernate
+- Gradle
+- [PostgreSql, MSSQL, MariaDB]
+-  HTML, CSS. Also i'm currently learning JavaScript and framework React.
+
+🌱 You can see my LeetCode progress👇
+ 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=rtfmyoumust)](https://github.com/rtfmyoumust/leetcode-stats)
 
 
 <!--
