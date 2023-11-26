@@ -20,7 +20,7 @@
 - Gradle
 - JUnit
 - [PostgreSql, MSSQL, MariaDB]
--  HTML, CSS. Also i'm currently learning JavaScript and framework React.
+- thymeleaf.
 
 🌱 You can see my LeetCode progress👇
  
