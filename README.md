@@ -15,10 +15,10 @@
 </h1>
 
 👨🏻‍💻 My tech stack: 
-- Java
+- Java/JS
 - Hibernate ORM
-- Gradle
-- JUnit
+- Gradle/Maven
+- JUnit/TestNg/Allure/Cucumber
 - [PostgreSql, MSSQL, MariaDB]
 - thymeleaf.
 
